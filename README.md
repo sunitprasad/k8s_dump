@@ -6,7 +6,10 @@
 
 Discover native resources and CRDs automatically · Export **one YAML per object** · Browse cluster resources · Monitor backup progress
 
-![Bash](https://img.shields.io/badge/Bash-4%2B-293b4d?logo=gnubash&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-kubectl-326CE5?logo=kubernetes&logoColor=white) ![Python](https://img.shields.io/badge/Python-not_required-1f8956) ![Go](https://img.shields.io/badge/Go-not_required-1f8956)
+<img width="79" height="20" alt="image" src="https://github.com/user-attachments/assets/54da745e-ae2f-4b42-8be1-1b2429db46e7" /> <img width="139" height="20" alt="image" src="https://github.com/user-attachments/assets/8cd74f31-f1bb-4620-9d4a-705f30857740" /> <img width="128" height="20" alt="image" src="https://github.com/user-attachments/assets/685eda26-897b-4a9d-9d05-dc026999e080" /> <img width="104" height="20" alt="image" src="https://github.com/user-attachments/assets/96242bae-de3d-4fd6-96fa-2356c7417dae" />
+
+
+
 
 </div>
 
@@ -18,19 +21,20 @@ Discover native resources and CRDs automatically · Export **one YAML per object
 
 View Kubernetes connectivity, selected context, kubeconfig, namespace/CRD counts, and output location.
 
-![Kubernetes Backup Console dashboard](screenshots/dashboard.svg)
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/02038547-7872-46fd-9488-91bed3b43e91" />
 
 ### Resource browser
 
 Navigate the API resource inventory using arrow keys or `j`/`k`. The inventory includes discovered API resources exposed by Kubernetes.
 
-![Discovered API resource browser](screenshots/resources.svg)
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/5d53e681-cf3c-4769-849a-e00d21de69b5" />
+
 
 ### Backup progress and logs
 
 Launch a backup from the TUI and inspect the latest output. Progress counts **completed API resource types**, while the engine saves **individual objects**.
 
-![Backup progress and live logs](screenshots/backup.svg)
+<img width="1200" height="720" alt="image" src="https://github.com/user-attachments/assets/70f4856e-b39d-43b3-9c58-80d1a0f66f4d" />
 
 ## Highlights
 
