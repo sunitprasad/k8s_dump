@@ -18,19 +18,19 @@ Discover native resources and CRDs automatically · Export **one YAML per object
 
 View Kubernetes connectivity, selected context, kubeconfig, namespace/CRD counts, and output location.
 
-![Kubernetes Backup Console dashboard](screenshots/dashboard.png)
+![Kubernetes Backup Console dashboard](screenshots/dashboard.svg)
 
 ### Resource browser
 
 Navigate the API resource inventory using arrow keys or `j`/`k`. The inventory includes discovered API resources exposed by Kubernetes.
 
-![Discovered API resource browser](screenshots/resources.png)
+![Discovered API resource browser](screenshots/resources.svg)
 
 ### Backup progress and logs
 
 Launch a backup from the TUI and inspect the latest output. Progress counts **completed API resource types**, while the engine saves **individual objects**.
 
-![Backup progress and live logs](screenshots/backup.png)
+![Backup progress and live logs](screenshots/backup.svg)
 
 ## Highlights
 
