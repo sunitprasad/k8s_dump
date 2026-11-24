@@ -13,7 +13,6 @@ Discover native resources and CRDs automatically · Export **one YAML per object
 
 </div>
 
-> **Status:** v0.2 prototype. The screenshots below are **illustrative mockups using sample cluster data**, not captures from a real connected cluster. TUI rendering varies by terminal size and theme.
 
 ## Preview
 
